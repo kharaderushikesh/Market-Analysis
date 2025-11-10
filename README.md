@@ -108,20 +108,5 @@ This project helps organizations to:
 - Strengthen **data-driven decision-making** with product-level insights  
 
 ---
-
-## 📂 Project Files  
-├── datasets/
-│ ├── aisles.csv
-│ ├── departments.csv
-│ ├── orders.csv
-│ ├── order_products_prior.csv
-│ └── products.csv
-├── SQL_Queries/
-│ ├── Q1_to_Q20_Market_Analysis.sql
-├── PowerBI_Dashboard/
-│ ├── Market_Insights.pbix
-└── README.md
-
----
 ## 🏁 Conclusion  
 The Market Analysis SQL Project demonstrates how structured data querying and business intelligence techniques can transform raw sales data into valuable insights — driving better strategic and operational decisions across retail environments.
